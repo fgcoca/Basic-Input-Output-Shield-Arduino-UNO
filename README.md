@@ -4,10 +4,12 @@ Migración del Escudo de entradas y salidas básicas para Arduino UNO (Basic Inp
 
 En las imágenes vemos una vista 3D del diseño en KiCAD y el aspecto real de la placa.
 
-![Imagen 1][1]  ![Imagen 2][2]
+Captura | Fotografa
+-- | --
+![Imagen 1][1] | ![Imagen 2][2]
 
-[1]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/BIOS_Shield_1.0_Migration/image/captura.png
-[1]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/images/4x7segment-on-board.png
+[1]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/images/captura-m.png
+[2]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/images/4x7segment-on-board-m.png
 
 ## **Memorias** 
 

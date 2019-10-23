@@ -1,12 +1,15 @@
 # **Escudo de entradas y salidas básicas para Arduino UNO**
 # **(Basic Input Output Shield)**
-Migración del Escudo de entradas y salidas básicas para Arduino UNO (Basic Input Output Shield) creado por Domingo Llorente del Departamento de Electrónica del IES Luis de Lucena de Guadalajara
+Migración del Escudo de entradas y salidas básicas para Arduino UNO (Basic Input Output Shield) creado por Domingo Llorente del Departamento de Electrónica del IES Luis de Lucena de Guadalajara.
 
-![Image][1] 
+En las imágenes vemos una vista 3D del diseño en KiCAD y el aspecto real de la placa.
 
- [1]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/BIOS_Shield_1.0_Migration/image/captura.png
+![Imagen 1][1]  ![Imagen 2][2]
 
-La memoria est disponible en: 
+[1]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/BIOS_Shield_1.0_Migration/image/captura.png
+[1]: https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO/blob/master/images/4x7segment-on-board.png
+
+## **Memorias** 
 
 https://www.dropbox.com/s/w6ulez3cc5c2cyy/BIOS_Shield_memoria_rev1.2.pdf?dl=0
 
